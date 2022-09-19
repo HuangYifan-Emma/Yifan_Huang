@@ -6,6 +6,9 @@ The following questionnaire seeks to understand your previous knowledge about so
 
 1. Do you know any programming languages? If you do, which ones?
 
+Python
+XML
+
 2. What is your primary computer operating system (OS)?
 
 3. Do you own a smartphone, tablet, or mobile device? What is your favourite OS for mobile devices?
